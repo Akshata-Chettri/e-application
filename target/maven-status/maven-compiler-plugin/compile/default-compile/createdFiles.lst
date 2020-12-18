@@ -1,0 +1,6 @@
+com\e\application\model\Staff.class
+com\e\application\controller\EApplicationController.class
+com\e\application\model\Details.class
+com\e\application\model\Principal.class
+com\e\application\model\Student.class
+com\e\application\service\EApplicationService.class
